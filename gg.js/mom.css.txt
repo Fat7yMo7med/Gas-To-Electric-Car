@@ -1,0 +1,7 @@
+html {
+   scrole-behaviour:smooth;
+}
+
+body {
+   color:red;
+}
